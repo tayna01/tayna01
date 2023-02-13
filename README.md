@@ -1,6 +1,14 @@
-Oii! 
 
-
+# Sobre mim
+  Meu chamo Tayná, sou estudante do Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná. 
+  
+# Habilidades
+- Linguagens de programação: 
+  - <i class="fab fa-java"></i> Java 
+  
+ - Tecnologias: 
+   - <i class="fab fa-html5"></i> HTML 
+  
  <div>
   <a href="https://github.com/tayna01">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tayna01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,4 +34,5 @@ Oii!
  
  
 </div>
+ 
  
