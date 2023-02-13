@@ -1,4 +1,4 @@
-Oii! Eu sou a Tayná e estou cursando o 4ª ano de Informática.
+Oii! 
 
 
  <div>
