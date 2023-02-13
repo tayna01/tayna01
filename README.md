@@ -8,6 +8,7 @@
   
  - Tecnologias: 
    - <i class="fab fa-html5"></i> HTML 
+   - <i class="fas fa-globe"></i> Inglês básico
   
  <div>
   <a href="https://github.com/tayna01">
@@ -34,5 +35,4 @@
  
  
 </div>
- 
  
