@@ -3,12 +3,11 @@ Oii! Eu sou a Tayná e estou cursando o 4ª ano de Informática.
 
  <div>
   <a href="https://github.com/tayna01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayna01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayna01&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tayna01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayna01&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Tay-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Tay-Python" height="30" width="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -17,9 +16,9 @@ Oii! Eu sou a Tayná e estou cursando o 4ª ano de Informática.
   <img align="center" alt="Tay-mysql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
 </div>
-  
+ 
   ##
-  
+ 
 <div> 
   
   <a href="https://www.instagram.com/tayna_vicente01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
