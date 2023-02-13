@@ -1,6 +1,6 @@
 
 # Sobre mim
-  Meu chamo Tayná, sou estudante do Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná. 
+  Meu chamo Tayná, sou estudante do Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná. Me apaixonei pela tecnologia em meados de 2020 e desde la percebi que essa é área onde quero atuar.
   
 # Habilidades
 - Linguagens de programação: 
