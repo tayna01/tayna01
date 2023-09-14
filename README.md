@@ -10,6 +10,13 @@
  - Tecnologias: 
    - <i class="fab fa-html5"></i> HTML 
    - <i class="fas fa-globe"></i> Inglês básico
+     
+<div>
+  <a href="https://github.com/tayna01">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayna01&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+
   
 ##
 <div style="display: inline_block"><br>
