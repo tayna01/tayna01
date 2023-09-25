@@ -6,10 +6,8 @@
 - Linguagens de programação: 
   - <i class="fab fa-java"></i> Java 
    - <i class="fab fa-java"></i> PHP
-   
- - Tecnologias: 
-   - <i class="fab fa-html5"></i> HTML 
-   - <i class="fas fa-globe"></i> Inglês básico
+   - <i class="fab fa-HTML"></i> HTML
+   - <I class="fab fa-CSS"></i> CSS
      
 <div>
   <a href="https://github.com/tayna01">
