@@ -8,7 +8,7 @@
    - <i class="fab fa-java"></i> PHP
    - <I class="fab fa-CSS"></i> CSS
      
-  - Tecnologias: 
+- Tecnologias: 
    - <i class="fab fa-html5"></i> HTML 
    - <i class="fas fa-globe"></i> Inglês básico
      
