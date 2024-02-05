@@ -6,7 +6,7 @@
   - <i class="fab fa-java"></i> Java 
    - <i class="fab fa-java"></i> PHP
    - <I class="fab fa-CSS"></i> CSS
-   - - <I class="fab fa-C#"></i> C#
+    - <I class="fab fa-C#"></i> C#
      
 - Tecnologias: 
    - <i class="fab fa-html5"></i> HTML 
