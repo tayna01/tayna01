@@ -1,7 +1,6 @@
 
 # Sobre mim
-  Me chamo Tayná, sou estudante do Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná. Me apaixonei pela tecnologia em meados de 2020 e desde la percebi que essa é área onde quero atuar.
-  
+ Atuo como estagiária na NextAge, focada em desenvolvimento com .Net Core | .Net | C#. Concluí o técnico em informática no Instituto Federal - Campus Paranavaí em 2023. E atualmente estou cursando Engenharia de Software no Instituto Federal - Campus Paranavaí.
 # Habilidades
 - Linguagens de programação: 
   - <i class="fab fa-java"></i> Java 
