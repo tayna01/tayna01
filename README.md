@@ -5,12 +5,13 @@
 - Linguagens de programação: 
   - <i class="fab fa-java"></i> Java 
    - <i class="fab fa-java"></i> PHP
-   - <I class="fab fa-CSS"></i> CSS
     - <I class="fab fa-C#"></i> C#
      
 - Tecnologias: 
-   - <i class="fab fa-html5"></i> HTML 
-   - <i class="fas fa-globe"></i> Inglês básico
+   - <i class="fab fa-html5"></i> HTML
+   - <I class="fab fa-CSS"></i> CSS
+ 
+ - Inglês básico
      
 <div>
   <a href="https://github.com/tayna01">
