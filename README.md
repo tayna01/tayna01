@@ -27,7 +27,7 @@
   <img align="center" alt="Tay-mysql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Tay-pqp" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Tay-css" height="30" width="40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-   <img align="center" alt="Tay-JS" height="30" width="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<!--    <img align="center" alt="Tay-JS" height="30" width="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> -->
 
 
 
