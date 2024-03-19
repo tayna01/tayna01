@@ -3,7 +3,7 @@
  Atuo como estagiária na NextAge, focada em desenvolvimento com .Net Core | .Net | C#. Concluí o técnico em informática no Instituto Federal - Campus Paranavaí em 2023. E atualmente estou cursando Engenharia de Software no Instituto Federal - Campus Paranavaí.
 # Habilidades
 - Linguagens de programação:
--  - <I class="fab fa-C#"></i> C#
+- <I class="fab fa-C#"></i> C#
   - <i class="fab fa-java"></i> Java 
    - <i class="fab fa-java"></i> PHP
      
