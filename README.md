@@ -11,8 +11,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 </a>
 
 **Desenvolvedora** \
-[**Nextage**](https://nextage.com.br/) • Back-End \
-Linguagens: `C#`, `.NET`
+[**Nextage**](https://nextage.com.br/) • Full Stack \
+Linguagens: `JavaScript`, `Node`, `React`
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/tayná-vicente-silva-930436243/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
