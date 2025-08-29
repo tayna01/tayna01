@@ -30,13 +30,16 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/tayná-vicente-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayna01&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<div align="left">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+---
+<br>
 
-<p align="left">
-  <img
-    src="https://profile-counter.glitch.me/tayna01/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tayna01/tayna01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tayna01/tayna01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tayna01/tayna01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
+
