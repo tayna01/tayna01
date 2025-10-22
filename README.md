@@ -30,7 +30,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/tayná-vicente-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayna01&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
----
 <br>
 
 <picture>
@@ -38,8 +37,4 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/tayná-vicente-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tayna01/tayna01/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tayna01/tayna01/output/pacman-contribution-graph.svg">
 </picture>
-
-###
----
-
 
