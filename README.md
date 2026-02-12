@@ -12,7 +12,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedora** \
 [**Nextage**](https://nextage.com.br/) • Full Stack \
-Linguagens: `JavaScript`, `Node`, `React`,  `C#`,  `Flutter`
+Linguagens: `Angular`, `Java`, `JavaScript`,  `C#`,  `Flutter`
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/tayná-vicente-silva-930436243/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
