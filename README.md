@@ -25,11 +25,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/tayná-vicente-
 
 <br/>
 
-<div>
-  <a href="https://github.com/tayna01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayna01&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
 <br>
 
 <picture>
