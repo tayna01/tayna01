@@ -7,7 +7,7 @@ Sou desenvolvedora e estudante de engenharia de software.
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 <a href="https://nextage.com.br/">
-  <img src="https://media.licdn.com/dms/image/D4D0BAQH4m2dPhFdWxA/company-logo_200_200/0/1702340573445/nextage_agile_development_logo?e=2147483647&v=beta&t=kY5h1dq82z0B-2XMrYb5k1wGfTsv5-LOVQ81nzrqt6w" alt="Nextage" width="50px"/>
+  <img src="https://nextage.com.br/assets-nextage/dist/img/Logo_NextAge_Positiva.png" alt="Nextage" width="50px"/>
 </a>
 
 **Desenvolvedora** \
